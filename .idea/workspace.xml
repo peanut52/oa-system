@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92ee8349-4c46-46c5-9cf2-015659a1b558" name="Default Changelist" comment="" />
+    <list default="true" id="92ee8349-4c46-46c5-9cf2-015659a1b558" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa-system/README" beforeDir="false" afterPath="$PROJECT_DIR$/oa-system/README" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +51,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/oa-system" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1hDJZJDuhkCLlTyQf8y8SDYZITP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -138,6 +147,11 @@
       <workItem from="1599725557599" duration="1658000" />
       <workItem from="1599727622811" duration="8708000" />
       <workItem from="1599742120902" duration="1138000" />
+      <workItem from="1599832404290" duration="204000" />
+      <workItem from="1602066668459" duration="2045000" />
+      <workItem from="1602296370115" duration="597000" />
+      <workItem from="1602314278370" duration="715000" />
+      <workItem from="1607510189795" duration="519000" />
     </task>
     <servers />
   </component>
@@ -149,14 +163,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1599703016592" />
-    <state x="399" y="14" key="FileChooserDialogImpl" timestamp="1599702477552">
+    <state x="223" y="109" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607510700454">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="223" y="109" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1607510700454" />
+    <state x="399" y="14" key="FileChooserDialogImpl" timestamp="1599832617285">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="399" y="14" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599702477552" />
+    <state x="399" y="14" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599832617285" />
+    <state width="1459" height="179" key="GridCell.Tab.0.bottom" timestamp="1602068154694">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1459" height="179" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602068154694" />
+    <state width="1459" height="179" key="GridCell.Tab.0.center" timestamp="1602068154694">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1459" height="179" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602068154694" />
+    <state width="1459" height="179" key="GridCell.Tab.0.left" timestamp="1602068154693">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1459" height="179" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602068154693" />
+    <state width="1459" height="179" key="GridCell.Tab.0.right" timestamp="1602068154694">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1459" height="179" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602068154694" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1599725234405">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1599725234405" />
+    <state x="305" y="215" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607510220810">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="305" y="215" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1607510220810" />
     <state x="0" y="0" width="1328" height="940" key="find.popup" timestamp="1599742513686">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
